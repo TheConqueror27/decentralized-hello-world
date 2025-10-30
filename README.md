@@ -5,6 +5,9 @@ It’s designed to help new developers understand **state variables**, **getter 
 
 ---
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0cca9ee-f412-450b-8a1e-b4c3a2a115b2" />
+
+
 ## 🚀 Project Description
 
 The **ImmutableString** contract showcases the fundamentals of **state management in Solidity**.  
