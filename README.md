@@ -58,7 +58,7 @@ Blockscout: Use the “Read/Write Contract” tab to interact directly.
 
 Celo Wallet or Metamask (Testnet): Send transactions to update values.
 
-📚 Learning Takeaways
+## 📚 Learning Takeaways
 
 Difference between view and non-view functions
 
@@ -68,7 +68,7 @@ Understanding gas usage and transactions
 
 Working with public variables and function modifiers
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Soumyadip Chatterjee
 B.Tech CSE | Blockchain & Web3 Enthusiast | Learning Solidity
